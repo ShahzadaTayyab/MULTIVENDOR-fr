@@ -1,3 +1,3 @@
-export const server = "https://932c8ac3aa37.ngrok-free.app/api/v2";
+export const server = "https://7f42mlsd-8000.inc1.devtunnels.ms/api/v2";
 
-export const backend_url = "https://932c8ac3aa37.ngrok-free.app/";
+export const backend_url = "https://7f42mlsd-8000.inc1.devtunnels.ms";
